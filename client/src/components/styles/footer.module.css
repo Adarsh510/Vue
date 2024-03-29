@@ -1,0 +1,15 @@
+/* styles/footer.module.css */
+
+.footer {
+  display: none;
+}
+
+
+.footer {
+  background: linear-gradient(135deg, rgba(0, 51, 102, 0.9), rgba(0, 102, 204, 0.9)); /* Gradient background */
+  color: white;
+}
+
+.footerBottom {
+  padding: 0 3%;
+}
