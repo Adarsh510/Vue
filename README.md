@@ -17,7 +17,7 @@ focus on tools that can help these people, which includes:
 front of the webcam or camera in our computer or smartphone and can tell
 the information about the objects to the user in the form of voice.
 2. **Face Recognition:**
-The idea is to build an application that would recognize the person present in front of the webcam or camera in our computer or smartphone and can tell the information about the objects to the user in the form of voice.
+<br>The idea is to build an application that would recognize the person present in front of the webcam or camera in our computer or smartphone and can tell the information about the objects to the user in the form of voice.
 3. **Voice assistant:**
 <br>The idea is to build an assistant that can take the input of a user in the
 form of voice and can perform some basic tasks like searching on the
